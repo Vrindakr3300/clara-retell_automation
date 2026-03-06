@@ -347,11 +347,5 @@ A Loom video (not included in this repository) demonstrates:
 
 If you have access to the Loom link, you can follow along step-by-step with the repository.
 
----
 
-## Author
-
-- **Harsh Jain**
-
-Contributions, issues, and suggestions are welcome via pull requests or issues on the repository.
 
